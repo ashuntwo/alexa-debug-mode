@@ -1,0 +1,31 @@
+{
+  "name": "alexa-debug-mode",
+  "version": "0.1.0",
+  "description": "An Alexa Skills Kit (ASK) intent and samples utterances for turning debug mode on or off.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashuntwo/alexa-debug-mode.git"
+  },
+  "keywords": [
+    "alexa",
+    "skills",
+    "kit",
+    "ask",
+    "debug",
+    "mode"
+  ],
+  "author": "Andy Huntwork <ash@huntwork.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ashuntwo/alexa-debug-mode/issues"
+  },
+  "homepage": "https://github.com/ashuntwo/alexa-debug-mode#readme",
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*"
+  }
+}
